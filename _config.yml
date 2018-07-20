@@ -1,4 +1,9 @@
 collections:
-- flims
+- films
 - stars
 - venues
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true

@@ -7,7 +7,15 @@
   <title>FLIM NITE</title>
 </head>
 <body>
-  {% include navigation.html %}
-  {{ content }}
+  <header>
+    {{ site.static_files.logo }}
+    {% include navigation.html %}
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    {% include footer.html %}
+  </footer>
 </body>
 </html>
