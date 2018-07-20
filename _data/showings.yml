@@ -1,6 +1,6 @@
 The Princess Bride:
   - date: 2018-09-03
-    time: 7.30pm
+    time: 7:30pm
     venue: Manchester – Three Minute Theatre
     ticket: On the door, £3 suggested
     facebook: https://facebook.com/events/862101943974350/
@@ -9,21 +9,21 @@ The Princess Bride:
 Nightmare on Elm Street:
   - date: 2018-10-05
     venue: Sheffield – Regather Cooperative
-    time: 19:30
+    time: 7:30pm
     ticket: £5
     facebook: https://facebook.com/events/862101943974350/
     open_mic: flimnitesheffield@gmail.com
 
   - date: 2018-10-08
     venue: Manchester – Three Minute Theatre
-    time: 19:30
+    time: 7:30pm
     ticket: On the door, £3 suggested
     facebook: https://facebook.com/events/862101943974350/
     open_mic: false
 
   - date: 2018-10-30
     venue: Newcastle – Alphabetti Theatre
-    time: 19:30
+    time: 7:30pm
     ticket: £5
     facebook: https://facebook.com/events/862101943974350/
     open_mic: flimnitenewcastle@gmail.com
@@ -31,7 +31,7 @@ Nightmare on Elm Street:
 Pan's Labyrinth:
   - date: 2018-11-09
     venue: Manchester – Three Minute Theatre
-    time: 19:30
+    time: 7:30pm
     ticket: On the door, £3 suggested
     facebook: https://facebook.com/events/862101943974350/
     open_mic: false
@@ -39,21 +39,21 @@ Pan's Labyrinth:
 To be announced:
   - date: 2018-12-03
     venue: Manchester – Three Minute Theatre
-    time: 19:30
+    time: 7:30pm
     ticket: On the door, £3 suggested
     facebook: https://facebook.com/events/862101943974350/
     open_mic: false
 
-  - date: 05.12.2018
+  - date: 2018-12-05
     venue: Newcastle – Alphabetti Theatre
-    time: 19:30
+    time: 7:30pm
     ticket: £5
     facebook: https://facebook.com/events/862101943974350/
     open_mic: flimnitenewcastle@gmail.com
 
   - date: 2018-12-08
     venue: Sheffield – Regather Cooperative
-    time: 19:30
+    time: 7:30pm
     ticket: £5
     facebook: https://facebook.com/events/862101943974350/
     open_mic: flimnitesheffield@gmail.com
