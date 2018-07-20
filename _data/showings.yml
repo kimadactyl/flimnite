@@ -1,52 +1,59 @@
 The Princess Bride:
-  - date: 03.09.2018
-    time: 7.30pm
+  - date: 2018-09-03
+    time: 7:30pm
     venue: Manchester – Three Minute Theatre
-    ticket: On the door, £3 suggested donation
-    facebook: https://facebook.com/events/862101943974350/
-    open_mic: flimnitemanchester@gmail.com
-
-Nightmare on Elm Street:
-  - date: 05.10.2018
-    venue: Sheffield – Regather Cooperative
-    time: 7.30pm
-    ticket: £5
-    facebook: https://facebook.com/events/862101943974350/
-    open_mic: flimnitesheffield@gmail.com
-
-  - date: 08.10.2018
-    venue: Manchester – Three Minute Theatre
-    time: 7.30pm
     ticket: On the door, £3 suggested
     facebook: https://facebook.com/events/862101943974350/
     open_mic: flimnitemanchester@gmail.com
 
-# 30.10.2018
-# Newcastle – Alphabetti Theatre, 7.30pm
-# Nightmare on Elm Street
-# Ticket: £5
-# Full listing / Facebook event / Sign up for our open mic
-#
-# 09.11.2018
-# Manchester – Three Minute Theatre, 7.30pm
-# Pan’s Labyrinth
-# Ticket: On the door, £3 suggested
-# Full listing / Facebook event / Sign up for our open mic
-#
-# 03.12.2018
-# Manchester – Three Minute Theatre, 7.30pm
-# TO BE ANNOUNCED!!!
-# Ticket: On the door, £3 suggested
-# Full listing / Facebook event / Sign up for our open mic
-#
-# 05.12.2018
-# Newcastle – Alphabetti Theatre, 7.30pm
-# TO BE ANNOUNCED!!!
-# Ticket: £5
-# Full listing / Facebook event / Sign up for our open mic
-#
-# 08.12.2018
-# Sheffield – Regather Cooperative, 7.30pm
-# TO BE ANNOUNCED!!!
-# Ticket: £5
-# Full listing / Facebook event / Sign up for our open mic
+Nightmare on Elm Street:
+  - date: 2018-10-05
+    venue: Sheffield – Regather Cooperative
+    time: 7:30pm
+    ticket: £5
+    facebook: https://facebook.com/events/862101943974350/
+    open_mic: flimnitesheffield@gmail.com
+
+  - date: 2018-10-08
+    venue: Manchester – Three Minute Theatre
+    time: 7:30pm
+    ticket: On the door, £3 suggested
+    facebook: https://facebook.com/events/862101943974350/
+    open_mic: false
+
+  - date: 2018-10-30
+    venue: Newcastle – Alphabetti Theatre
+    time: 7:30pm
+    ticket: £5
+    facebook: https://facebook.com/events/862101943974350/
+    open_mic: flimnitenewcastle@gmail.com
+
+Pan's Labyrinth:
+  - date: 2018-11-09
+    venue: Manchester – Three Minute Theatre
+    time: 7:30pm
+    ticket: On the door, £3 suggested
+    facebook: https://facebook.com/events/862101943974350/
+    open_mic: false
+
+To be announced:
+  - date: 2018-12-03
+    venue: Manchester – Three Minute Theatre
+    time: 7:30pm
+    ticket: On the door, £3 suggested
+    facebook: https://facebook.com/events/862101943974350/
+    open_mic: false
+
+  - date: 2018-12-05
+    venue: Newcastle – Alphabetti Theatre
+    time: 7:30pm
+    ticket: £5
+    facebook: https://facebook.com/events/862101943974350/
+    open_mic: flimnitenewcastle@gmail.com
+
+  - date: 2018-12-08
+    venue: Sheffield – Regather Cooperative
+    time: 7:30pm
+    ticket: £5
+    facebook: https://facebook.com/events/862101943974350/
+    open_mic: flimnitesheffield@gmail.com
