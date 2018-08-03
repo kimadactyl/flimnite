@@ -7,6 +7,7 @@ The Princess Bride:
       ticket: On the door, £3 suggested
       facebook: https://facebook.com/events/862101943974350/
       open_mic: flimnitemanchester@gmail.com
+      image: https://placedog.net/400/400
 
 Nightmare on Elm Street:
   description: "What would ‘The Princess Bride’ look like chewed up and spat out by comedians, theatremakers, spoken word artists, dancers and musicians? Join us and find out!"
@@ -17,18 +18,21 @@ Nightmare on Elm Street:
       ticket: £5
       facebook: https://facebook.com/events/862101943974350/
       open_mic: flimnitesheffield@gmail.com
+      image: https://placedog.net/400/400
     - date: 2018-10-08
       venue: Manchester – Three Minute Theatre
       time: 7:30pm
       ticket: On the door, £3 suggested
       facebook: https://facebook.com/events/862101943974350/
       open_mic: false
+      image: https://placedog.net/400/400
     - date: 2018-10-30
       venue: Newcastle – Alphabetti Theatre
       time: 7:30pm
       ticket: £5
       facebook: https://facebook.com/events/862101943974350/
       open_mic: flimnitenewcastle@gmail.com
+      image: https://placedog.net/400/400
 
 Pan's Labyrinth:
   showings:
@@ -38,6 +42,7 @@ Pan's Labyrinth:
       ticket: On the door, £3 suggested
       facebook: https://facebook.com/events/862101943974350/
       open_mic: false
+      image: https://placedog.net/400/400
 
 To be announced:
   showings:
@@ -47,15 +52,18 @@ To be announced:
       ticket: On the door, £3 suggested
       facebook: https://facebook.com/events/862101943974350/
       open_mic: false
+      image: https://placedog.net/400/400
     - date: 2018-12-05
       venue: Newcastle – Alphabetti Theatre
       time: 7:30pm
       ticket: £5
       facebook: https://facebook.com/events/862101943974350/
       open_mic: flimnitenewcastle@gmail.com
+      image: https://placedog.net/400/400
     - date: 2018-12-08
       venue: Sheffield – Regather Cooperative
       time: 7:30pm
       ticket: £5
       facebook: https://facebook.com/events/862101943974350/
       open_mic: flimnitesheffield@gmail.com
+      image: https://placedog.net/400/400

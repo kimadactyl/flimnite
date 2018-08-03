@@ -29,7 +29,7 @@
           </div>
         </div>
         <div class="showing__image">
-          <img src="https://placedog.net/400/400" alt="Poster for {{ flim[0] }}">
+          <img src="{{ showing.image }}" alt="Poster for {{ flim[0] }}">
         </div>
       </li>
     {% endfor %}
