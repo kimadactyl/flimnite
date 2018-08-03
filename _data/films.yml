@@ -1,0 +1,61 @@
+The Princess Bride:
+  description: "What would ‘The Princess Bride’ look like chewed up and spat out by comedians, theatremakers, spoken word artists, dancers and musicians? Join us and find out!"
+  showings:
+    - date: 2018-09-03
+      time: 7:30pm
+      venue: Manchester – Three Minute Theatre
+      ticket: On the door, £3 suggested
+      facebook: https://facebook.com/events/862101943974350/
+      open_mic: flimnitemanchester@gmail.com
+
+Nightmare on Elm Street:
+  description: "What would ‘The Princess Bride’ look like chewed up and spat out by comedians, theatremakers, spoken word artists, dancers and musicians? Join us and find out!"
+  showings:
+    - date: 2018-10-05
+      venue: Sheffield – Regather Cooperative
+      time: 7:30pm
+      ticket: £5
+      facebook: https://facebook.com/events/862101943974350/
+      open_mic: flimnitesheffield@gmail.com
+    - date: 2018-10-08
+      venue: Manchester – Three Minute Theatre
+      time: 7:30pm
+      ticket: On the door, £3 suggested
+      facebook: https://facebook.com/events/862101943974350/
+      open_mic: false
+    - date: 2018-10-30
+      venue: Newcastle – Alphabetti Theatre
+      time: 7:30pm
+      ticket: £5
+      facebook: https://facebook.com/events/862101943974350/
+      open_mic: flimnitenewcastle@gmail.com
+
+Pan's Labyrinth:
+  showings:
+    - date: 2018-11-09
+      venue: Manchester – Three Minute Theatre
+      time: 7:30pm
+      ticket: On the door, £3 suggested
+      facebook: https://facebook.com/events/862101943974350/
+      open_mic: false
+
+To be announced:
+  showings:
+    - date: 2018-12-03
+      venue: Manchester – Three Minute Theatre
+      time: 7:30pm
+      ticket: On the door, £3 suggested
+      facebook: https://facebook.com/events/862101943974350/
+      open_mic: false
+    - date: 2018-12-05
+      venue: Newcastle – Alphabetti Theatre
+      time: 7:30pm
+      ticket: £5
+      facebook: https://facebook.com/events/862101943974350/
+      open_mic: flimnitenewcastle@gmail.com
+    - date: 2018-12-08
+      venue: Sheffield – Regather Cooperative
+      time: 7:30pm
+      ticket: £5
+      facebook: https://facebook.com/events/862101943974350/
+      open_mic: flimnitesheffield@gmail.com

@@ -24,19 +24,24 @@ body
 header
   text-align: center
   margin: 0 auto
+  .navigation
+    +list-reset
+    li
+      display: inline-block
+      padding: 0 1rem
 
 main
   max-width: 35rem
   margin: 0 auto
 
-.navigation
-  +list-reset
-  li
-    display: inline-block
-    padding: 0 1rem
-
 h1, h2
   text-transform: uppercase
+
+.gallery
+  display: grid
+  grid-template-columns: 1fr 1fr 1fr
+  img
+    max-width: 100%
 
 ul.showings
   +list-reset

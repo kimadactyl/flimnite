@@ -1,7 +1,7 @@
 collections:
-- films
-- stars
-- venues
+  - films
+  - stars
+  - venues
 defaults:
   - scope:
       path: "assets/img"

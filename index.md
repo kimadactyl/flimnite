@@ -1,6 +1,6 @@
 # Flim Nite
 
-FLIM (noun): a distorted adaptation of a popular film performed live by comedians, theatremakers, poets, writers, musicians, dancers and artists
+<tt>FLIM (noun): a distorted adaptation of a popular film performed live by comedians, theatremakers, poets, writers, musicians, dancers and artists</tt>
 
 FLIM NITE is an experimental performance event based around the unfaithful retelling of popular films.
 
@@ -10,23 +10,28 @@ Our regular events take place in Manchester, Newcastle and Sheffield, with speci
 
 “The group take a hammer to well-known films and smash them into something completely different – think a smorgasbord of musical interludes, a dab of poetry and an added bit of standup comedy. Trust us, it’s unlike any other night around!” - The Skinny
 
- * Find a FLIM in your area!
- * Bring us to your city or festival!
+ * [Find a FLIM in your area!](/now-showing)
+ * [Bring us to your city or festival!](#bookings)
 
-## Now Showing: Princess Bride
+{% assign film =  site.data.films.first %}
+{% assign showing = film[1].showings.first %}
 
-What would ‘The Princess Bride’ look like chewed up and spat out by comedians, theatremakers, spoken word artists, dancers and musicians? Join us and find out!
+<h2>Next Showing: {{ film[0] }}</h2>
+{{ showing.date | date: '%A %-d %B' }}, {{ showing.time }}: {{ showing["venue"] }}
+<p>{{ film[1].description }}</p>
 
-Monday 3rd September 2018, Three Minute Theatre, Manchester
+<a href="/now-showing">All upcoming FLIMs</a>
 
- * PICTURE 1
- * PICTURE 2
- * PICTURE 3
+<div class="gallery">
+  <img src="https://placedog.net/400/400" role="presentation">
+  <img src="https://placedog.net/400/400" role="presentation">
+  <img src="https://placedog.net/400/400" role="presentation">
+</div>
 
 ## Social Media
 
-* Facebook
-* Twitter
+  * [Facebook](https://www.facebook.com/flimnite/)
+  * [Twitter](https://twitter.com/flimnite)
 
 ## Sign up to our newsletter
 
@@ -39,3 +44,9 @@ Enter your email address here to receive the latest FLIM NITE news, whatever tha
 Want to bring FLIM NITE to your theatre, festival or city? Drop us a line and we’ll see what we can do. Together we can spread the FLIM NITE message far and wide!
 
 (Email link or contact form)
+
+<div class="gallery">
+  <img src="https://placedog.net/400/400" role="presentation">
+  <img src="https://placedog.net/400/400" role="presentation">
+  <img src="https://placedog.net/400/400" role="presentation">
+</div>

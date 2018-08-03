@@ -2,10 +2,10 @@
 
 <p>Here's our listings, clickety click</p>
 
-{% for film in site.data.showings %}
+{% for film in site.data.films %}
   <h2>{{ film[0] }}</h2>
   <ul class="showings">
-    {% for showing in film[1] %}
+    {% for showing in film[1].showings %}
       <li class="showing">
         <div class="showing__content">
           <div class="showing__date">
