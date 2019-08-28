@@ -1,0 +1,39 @@
+@import 'base/_colours'
+@import 'base/_mixins'
+@import 'base/_typography'
+@import 'base/_layout'
+
+@import 'modules/_header'
+@import 'modules/_navigation'
+
+.gallery
+  display: grid
+  grid-template-columns: 1fr 1fr 1fr
+
+ul.showings
+  +list-reset
+
+.showing
+  display: grid
+  grid-template-columns: 200px auto
+  grid-template-areas: "sidebar content"
+  grid-gap: 2rem
+  margin-bottom: 2rem
+  h3
+    margin-top: 0
+    padding-top: 0
+  &__content
+    grid-area: content
+  &__image
+    grid-area: sidebar
+  &__facebook, &__openmic
+    display: inline-block
+  &__facebook
+      margin-right: 1rem
+
+.hosts
+  display: grid
+  grid-template-columns: 1fr 1fr
+  grid-gap: 2rem
+  h3
+    text-align: center

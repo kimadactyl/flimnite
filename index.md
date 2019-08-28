@@ -1,14 +1,14 @@
-# Flim Nite
+<div class="lede">FLIM (noun): a distorted adaptation of a popular film performed live by comedians, theatremakers, poets, writers, musicians, dancers and artists</div>
 
-<tt>FLIM (noun): a distorted adaptation of a popular film performed live by comedians, theatremakers, poets, writers, musicians, dancers and artists</tt>
-
-FLIM NITE is an experimental performance event based around the unfaithful retelling of popular films.
+**FLIM NITE is an experimental performance event based around the unfaithful retelling of popular films.**
 
 We’ve been creating distorted adaptations of classic movies for four years in the North of England, joined by a vast troupe of guest artists from across the UK.
 
 Our regular events take place in Manchester, Newcastle and Sheffield, with special events all over the place.
 
-“The group take a hammer to well-known films and smash them into something completely different – think a smorgasbord of musical interludes, a dab of poetry and an added bit of standup comedy. Trust us, it’s unlike any other night around!” - The Skinny
+> “The group take a hammer to well-known films and smash them into something completely different – think a smorgasbord of musical interludes, a dab of poetry and an added bit of standup comedy. Trust us, it’s unlike any other night around!”
+>
+> <cite>&mdash; The Skinny</cite>
 
  * [Find a FLIM in your area!](/now-showing)
  * [Bring us to your city or festival!](#bookings)
